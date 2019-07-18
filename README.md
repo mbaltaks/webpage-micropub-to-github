@@ -26,7 +26,7 @@ This project contains a [https://yarnpkg.com/](Yarn) lock file which is a faster
 ## Installation
 Install as a normal Node.js application. Add the required [configuration](#configuration) values via environment variables or similar mechanism. Or deploy to Heroku:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/voxpelli/webpage-micropub-to-github)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mbaltaks/webpage-micropub-to-github)
 
 ## Endpoint discovery
 Once deployed, your Micropub endpoint can be found at `/micropub/main` e.g. `https://example.com/micropub/main`.
